@@ -6,7 +6,7 @@ This describes how to create an OIDC user registry on IBM APIConnect, with the f
   - Client Certificate is used, in place of Client Secret
 
 
-#### Step 1: Create TLS Client Profile with client public/private/truststore
+#### Step 1: Create TLS Client Profile with client public private keypair/truststore
 
 From the UI -> Resources -> TLS -> {Keystore, Truststore, TLS Client Profile}
 
