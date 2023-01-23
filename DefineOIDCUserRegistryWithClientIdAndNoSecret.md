@@ -19,11 +19,11 @@ From the UI -> Resources -> TLS -> {Keystore, Truststore, TLS Client Profile}
 
 From the UI -> Resources -> User registries -> Create -> OpenID Connect (OIDC)
 
-- Select the type, provide title
+- Select the type, provide a value for the title of this user registry
 
 <img width="1175" alt="image" src="https://user-images.githubusercontent.com/24717424/214155590-88265a48-6232-40ae-8a62-c00e1c5d3c1b.png">
 
-- Provide authorize, token endpoints and **important** the TLS client profile for the mutual TLS communication with token endpoint
+- Provide authorize, token endpoints and **importantly** the TLS client profile for the mutual TLS communication with token endpoint
 
 <img width="845" alt="image" src="https://user-images.githubusercontent.com/24717424/214155702-f0f4ccaa-9a29-45f5-8487-b887f09c92be.png">
 
