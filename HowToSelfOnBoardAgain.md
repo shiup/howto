@@ -16,7 +16,7 @@ Pre-requite: When a portal is created with IBM API Connect, a Drupal administrat
 - select the user in question, alice, and select appropriate action.  In this case, I choose `Cancel the selected user account(s)`
 <img width="624" alt="image" src="https://user-images.githubusercontent.com/24717424/217950521-7241a372-8568-4e5d-85f6-c78d9fa76f38.png">
 
-- Select the `Delete the account and its content ....`
+- Select the `Delete the account and its content ....` and `Confirm`
 <img width="703" alt="image" src="https://user-images.githubusercontent.com/24717424/217950616-881ed273-a186-4731-818d-98e40633559e.png">
 
 ## Result
